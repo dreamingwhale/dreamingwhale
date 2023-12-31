@@ -1,7 +1,36 @@
 <!-- 자기소개 시작 -->
 <div>
 <br>
- 
+
+# 프로필
+
+![프로필 이미지](프로필_이미지_링크.jpg)
+
+안녕하세요! 제 이름은 전주영이고, 용인에 거주하고 있는 개발자입니다. 
+
+## 연락처
+
+- 이메일: dreamingskywhale@gmail.com
+
+## 스킬
+
+- 언어: C++,Java
+- 데이터베이스: Oracle, MySql
+- 기타:Unreal Engnine
+
+## 프로젝트
+
+### 프로젝트 1: [프로젝트 이름]
+
+- 프로젝트 설명: [프로젝트에 대한 간단한 설명]
+- GitHub 링크: [프로젝트 GitHub 링크]
+
+### 프로젝트 2: [프로젝트 이름]
+
+- 프로젝트 설명: [프로젝트에 대한 간단한 설명]
+- GitHub 링크: [프로젝트 GitHub 링크]
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neonderthaw&color=%23A2D2FF&size=35&lines=Create+your+own)](https://git.io/typing-svg)
 </div>
  
@@ -23,10 +52,7 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
-<!--<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>-->
-<!--<img src="https://img.shields.io/badge/MySQL Workbench-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>-->
-<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/STS-6DB33F?style=flat-square&logo=Spring&logoColor=white"></a>
+
 
 </p>
 </div>
