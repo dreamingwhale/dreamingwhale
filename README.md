@@ -29,7 +29,7 @@
 
 - 프로젝트 설명: [프로젝트에 대한 간단한 설명]
 - GitHub 링크: [프로젝트 GitHub 링크]
-
+  <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neonderthaw&color=%23A2D2FF&size=35&lines=Create+your+own)](https://git.io/typing-svg)
 </div>
