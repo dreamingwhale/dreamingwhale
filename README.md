@@ -10,6 +10,7 @@
 ## 연락처
 
 - 이메일: dreamingskywhale@gmail.com
+- 노션: https://seemly-knot-5ea.notion.site/JooYoung-Jeon-946d88727ebd4232b451744a0f9b02df?pvs=4
 
 ## 스킬
 
