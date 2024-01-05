@@ -14,7 +14,7 @@
 
 ## 스킬
 
-- 언어: C++,Java
+- 언어: C++
 - 데이터베이스: Oracle, MySql
 - 기타: Unreal Engnine
 
